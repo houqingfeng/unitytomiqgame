@@ -1,6 +1,7 @@
-﻿**Unity转小米快游戏（小游戏）工具使用说明文档**
 **注意：此仓库不在更新，最新版本的地址**
 新版地址：https://github.com/mi-unity-qggame/unitytoqgame
+
+**Unity转小米快游戏（小游戏）工具使用说明文档**
 
 **视频教程**
 
